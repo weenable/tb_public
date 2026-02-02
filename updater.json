@@ -1,35 +1,23 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "See the assets to download and install.",
-  "pub_date": "2026-02-02T13:49:59.605Z",
+  "pub_date": "2026-02-02T14:32:21.131Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzJZTi9rbkRnNDVzV2Q1WExrVWZhYkM5aUYxUU1pOHovakkreUZNczc5SzFjeFViMFg4WW85dytXZW1XSE1WaGNDb0lkcXE0Y01ZSUx2MkRJNDZlbGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDM5NjE3CWZpbGU6VGFibGVCb3QuYXBwLnRhci5negpjVW1JMlR2aytNS3NyZmc3QTdmMitpNk1NaHdYRi8xdlMrRXlkVmtacWV3UFZJcXRTd1lLRXFCOUZHdVA5SnlFUzJGbFk2bElVbDY5NmZrNzljWXlCdz09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_aarch64.app.tar.gz"
-    },
-    "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzJZTi9rbkRnNDVzV2Q1WExrVWZhYkM5aUYxUU1pOHovakkreUZNczc5SzFjeFViMFg4WW85dytXZW1XSE1WaGNDb0lkcXE0Y01ZSUx2MkRJNDZlbGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDM5NjE3CWZpbGU6VGFibGVCb3QuYXBwLnRhci5negpjVW1JMlR2aytNS3NyZmc3QTdmMitpNk1NaHdYRi8xdlMrRXlkVmtacWV3UFZJcXRTd1lLRXFCOUZHdVA5SnlFUzJGbFk2bElVbDY5NmZrNzljWXlCdz09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_aarch64.app.tar.gz"
-    },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlb3drSzM0aWl5a1FTWnBNQldGRU9FUERkM2grRWpMR2hWY2lCSG9LZWVpSnhtVzVqd2NSa3B2MkdkYjNudU0xeXRtam1jZ1JJOTRmM1VzekpVdFc3N3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDM5NjgxCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negprNk9sdWN0S3NVaVduNHJqTm5KcVNjUkZhT0Z6M2tEOFdUZDlMT3hRd29RZkw2dFdLNjJFNUg1SW9wUUo5L3lGSXd2bXZFTnpzS3pTcG1aMk9Dd3dDQT09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzUwcGdNc0d0NmJsSmpxSWxjeE1WUzFGQ1dGQSs3ZEJPUFl0TDFmRXk4OEd4a3BkUlVCenMxbENzRWM3OURKQlZ5TlJzVVNTajlsbXNhT3BMbURjNFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQyNzEzCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negovenMwazk0TEpqYW5xdXovZGo0Q0JyODZFNFZ1VUF0UGswc2pXNmdrN3hQM25BZDhHejF5ZExKVnRMcTR2RHNZMWlBdWFHOHRGcmFSK3llMlZOWm9BQT09Cg==",
+      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.2/TableBot_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlb3drSzM0aWl5a1FTWnBNQldGRU9FUERkM2grRWpMR2hWY2lCSG9LZWVpSnhtVzVqd2NSa3B2MkdkYjNudU0xeXRtam1jZ1JJOTRmM1VzekpVdFc3N3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDM5NjgxCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negprNk9sdWN0S3NVaVduNHJqTm5KcVNjUkZhT0Z6M2tEOFdUZDlMT3hRd29RZkw2dFdLNjJFNUg1SW9wUUo5L3lGSXd2bXZFTnpzS3pTcG1aMk9Dd3dDQT09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzUwcGdNc0d0NmJsSmpxSWxjeE1WUzFGQ1dGQSs3ZEJPUFl0TDFmRXk4OEd4a3BkUlVCenMxbENzRWM3OURKQlZ5TlJzVVNTajlsbXNhT3BMbURjNFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQyNzEzCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negovenMwazk0TEpqYW5xdXovZGo0Q0JyODZFNFZ1VUF0UGswc2pXNmdrN3hQM25BZDhHejF5ZExKVnRMcTR2RHNZMWlBdWFHOHRGcmFSK3llMlZOWm9BQT09Cg==",
+      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.2/TableBot_x64.app.tar.gz"
     },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzVoUElmcFdzK3NTcy9kSDZTY25XejQyY1ZicU1uc1R2U0Vyd0hYODJVSXVhLzNtZ24zcU41aUk4aUJYdG0wL1c3MVVuNklUMlh4V0JwTm1rQ1VmeXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQwMTkwCWZpbGU6VGFibGVCb3RfMC4xLjFfeDY0X2VuLVVTLm1zaQpJd0lTbXVuUlNYRnhjcW9RUjBEMndnUWp6RUFaQVN3eWZSdHN3SEVSdjhkRkIwQkg4UTZ6UjhwNWpOdGNuL2ZyT25XSzZUZ1JvSkZwR1pMVnlzRFhDZz09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_0.1.1_x64_en-US.msi"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzNpYmZMS3NBaXF0SVNMOThTOXI5MitXd0xnazE1azBqMWtwNTdyK3BTanFRR2FVZHUvMWlBQklGZi80YTJTWmpqaVlMODI3N1p2VjQvaDY1amlQWUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQyNzM1CWZpbGU6VGFibGVCb3QuYXBwLnRhci5nego5VlNkVUtLWmlRZHFYWlNQcVdpVHhhaktwQlkrM0RodGhVTWZkSDBaSC9LQ3MxOTR4eFZyWE1oOVB6dllVNXpXangrTmJtblpUS08vNjFSNzh3SExCZz09Cg==",
+      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.2/TableBot_aarch64.app.tar.gz"
     },
-    "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzVoUElmcFdzK3NTcy9kSDZTY25XejQyY1ZicU1uc1R2U0Vyd0hYODJVSXVhLzNtZ24zcU41aUk4aUJYdG0wL1c3MVVuNklUMlh4V0JwTm1rQ1VmeXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQwMTkwCWZpbGU6VGFibGVCb3RfMC4xLjFfeDY0X2VuLVVTLm1zaQpJd0lTbXVuUlNYRnhjcW9RUjBEMndnUWp6RUFaQVN3eWZSdHN3SEVSdjhkRkIwQkg4UTZ6UjhwNWpOdGNuL2ZyT25XSzZUZ1JvSkZwR1pMVnlzRFhDZz09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_0.1.1_x64_en-US.msi"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzZkdE1JNi9MeVZRWGIxeXJaY2ZUQUY4eEdhcDl4bVVtY3lqV3dnUkFmY0VrdmFJUlZDdm41M3J1dHhWdzZFRVF1bDJXRnRpTkVRM25ObUoyR05MQnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQwMTkwCWZpbGU6VGFibGVCb3RfMC4xLjFfeDY0LXNldHVwLmV4ZQpCeTFJVXZoSHk5UHBtd01FTmZscENMZ2liYlg3eGFMMjd2U0RqNWxaUGJzTmtnMGVUcG5xbE9KOUlNUHdWbnExdTlvQ0VpVU1pbStnckNYS0dEVUpEQT09Cg==",
-      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.1/TableBot_0.1.1_x64-setup.exe"
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzNpYmZMS3NBaXF0SVNMOThTOXI5MitXd0xnazE1azBqMWtwNTdyK3BTanFRR2FVZHUvMWlBQklGZi80YTJTWmpqaVlMODI3N1p2VjQvaDY1amlQWUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDQyNzM1CWZpbGU6VGFibGVCb3QuYXBwLnRhci5nego5VlNkVUtLWmlRZHFYWlNQcVdpVHhhaktwQlkrM0RodGhVTWZkSDBaSC9LQ3MxOTR4eFZyWE1oOVB6dllVNXpXangrTmJtblpUS08vNjFSNzh3SExCZz09Cg==",
+      "url": "https://github.com/OpenEdgeHQ/tablebot/releases/download/v0.1.2/TableBot_aarch64.app.tar.gz"
     }
   }
 }
