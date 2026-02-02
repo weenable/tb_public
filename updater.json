@@ -1,15 +1,47 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial release",
-  "pub_date": "2026-02-01T00:00:00Z",
+  "version": "0.1.1",
+  "notes": "See the assets to download and install.",
+  "pub_date": "2026-02-02T11:39:30.883Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "",
-      "url": "https://github.com/yourusername/tablebot/releases/download/v0.1.0/TableBot_0.1.0_x64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzF6N2RpKzgreHUzWWVSa2tibE9VT3J6ek1BZzFWVU44bmpyT0NEZko0ZDFIc1NFU1lNOXZQYnF3c3dVR0dNNUNNRGFCQlRVelZyOUNXVU5EcGdyVHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMxNzgwCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negpZMitkVFpUalJiNWpLQ0U5TUxacU41TlhzS09qTkloeVdiMlYwM2hteHZhdlVZK1AwSmFyTUxuZTIvU1J4NnRFbjE0ZUVVT3Rha3pyYkxzRjlTejZBUT09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzF6N2RpKzgreHUzWWVSa2tibE9VT3J6ek1BZzFWVU44bmpyT0NEZko0ZDFIc1NFU1lNOXZQYnF3c3dVR0dNNUNNRGFCQlRVelZyOUNXVU5EcGdyVHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMxNzgwCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negpZMitkVFpUalJiNWpLQ0U5TUxacU41TlhzS09qTkloeVdiMlYwM2hteHZhdlVZK1AwSmFyTUxuZTIvU1J4NnRFbjE0ZUVVT3Rha3pyYkxzRjlTejZBUT09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/yourusername/tablebot/releases/download/v0.1.0/TableBot_0.1.0_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzhkN0Q2Q3E1REhEUmJpamZRVmVyM296TjQzdzJqSEIxV3oyeEtGV0hQMlZGTFY2SnZtcHB6VHN0NTR5SmNNOUNBM3JhdGtQbjN0Sm05c1Zudk42cHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMxODUxCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negpkUGZNT290aE1HbnV4NzFzcHVKU1pubkpLUENMQ1BOSW15L1NpVzIvYzhvOEtGZXJPVXJjMEZZZUMxRGRxQXBYVERHcnVudEFHUk5rQXQ4Sy9yRy9EQT09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzhkN0Q2Q3E1REhEUmJpamZRVmVyM296TjQzdzJqSEIxV3oyeEtGV0hQMlZGTFY2SnZtcHB6VHN0NTR5SmNNOUNBM3JhdGtQbjN0Sm05c1Zudk42cHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMxODUxCWZpbGU6VGFibGVCb3QuYXBwLnRhci5negpkUGZNT290aE1HbnV4NzFzcHVKU1pubkpLUENMQ1BOSW15L1NpVzIvYzhvOEtGZXJPVXJjMEZZZUMxRGRxQXBYVERHcnVudEFHUk5rQXQ4Sy9yRy9EQT09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbyt6QVY4amdnclFWZjZvY3BnWkJkZEFNOUwxcTJHd1UvVkJIbER5bjZOd3p3d3Z3bG05N2s1QUJXTm5mdmJ1R1A5bUVIeTIvQVlTVk5ZWjZmQ1IrZ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMyMTM0CWZpbGU6VGFibGVCb3RfMC4xLjBfYW1kNjQuQXBwSW1hZ2UKL3FIakExSXVuZThQa21QZVluMDZzRU15dUZibjJzdWZ2blRnWkk3VXZIRWFGWlJ1TmdHYVREb2VrL01KWXNaWWpGdWdlNmFXN0lzN2NnZGNTakNGQmc9PQo=",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_0.1.0_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbyt6QVY4amdnclFWZjZvY3BnWkJkZEFNOUwxcTJHd1UvVkJIbER5bjZOd3p3d3Z3bG05N2s1QUJXTm5mdmJ1R1A5bUVIeTIvQVlTVk5ZWjZmQ1IrZ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMyMTM0CWZpbGU6VGFibGVCb3RfMC4xLjBfYW1kNjQuQXBwSW1hZ2UKL3FIakExSXVuZThQa21QZVluMDZzRU15dUZibjJzdWZ2blRnWkk3VXZIRWFGWlJ1TmdHYVREb2VrL01KWXNaWWpGdWdlNmFXN0lzN2NnZGNTakNGQmc9PQo=",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_0.1.0_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlb3lxVDBnS1NGSTNWSkNlYzZSaFYwbEhmUWdpWHZ3bHlkNHNwU21La3hWOG9qdGEyYkRubkcvTlp6ekpaUW8vNnlINnVzZDVkbTEvN25XSGlRcXpsYXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMyMTM0CWZpbGU6VGFibGVCb3RfMC4xLjBfYW1kNjQuZGViCk9sWGZ5ZEVhcC93Q0xxbm5nbEhVVHBMV3NBamZOTDEvamFIa0FGVVR2SFZyK0RHcFZOblpMR0pVWHlTY2s3V0dLWk1LdE5uZThyTVl6SXlVbng3bkJBPT0K",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_0.1.0_amd64.deb"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzBVQnQvU1RoVkUyK3Bxa1BpUUNhbGxWTGxvdVgzaDNYbjRLUDZPcWZQdmgza2RrOC8wTCs3eHJyVmZ3ZmdPa044Y1JOczVaczEyYUhSUTcrbTBxdHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMyMzY0CWZpbGU6VGFibGVCb3RfMC4xLjBfeDY0X2VuLVVTLm1zaQpXeXNnNVdOY0lyREdreHZ1YVlGWkhwWEYwVGZXc3V3ZXU1dzVSbCtXeitkY1Awcm1KWW8ycXNOVkU0UUxqN2tXaFVZdDNCMXE0OVJvdE9EcjRpYUREZz09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_0.1.0_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzBVQnQvU1RoVkUyK3Bxa1BpUUNhbGxWTGxvdVgzaDNYbjRLUDZPcWZQdmgza2RrOC8wTCs3eHJyVmZ3ZmdPa044Y1JOczVaczEyYUhSUTcrbTBxdHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMyMzY0CWZpbGU6VGFibGVCb3RfMC4xLjBfeDY0X2VuLVVTLm1zaQpXeXNnNVdOY0lyREdreHZ1YVlGWkhwWEYwVGZXc3V3ZXU1dzVSbCtXeitkY1Awcm1KWW8ycXNOVkU0UUxqN2tXaFVZdDNCMXE0OVJvdE9EcjRpYUREZz09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_0.1.0_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbkFvMzFibktlbzRNVXl2VWdzdHFjc1VHYTJiTmpJMDUzZEhnTDVRREtXTFhOM1JEaitQK2kzQVRiaEhEQWovOVdUYXg3d2toR2g2a2M3YTlCaEJkWng2SzR3dlF5Rnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwMDMyMzY0CWZpbGU6VGFibGVCb3RfMC4xLjBfeDY0LXNldHVwLmV4ZQpieFRvaUZJZjhGU29nWDlZMnEzMFZmNTZSU2I3czc1a1BHWEtxV3Bia2tqbGZIbWFhRFk5dG9mOGVmcTRuaHlkSTFGbFhWalJ4MzR6aHc3L0RTbUlDdz09Cg==",
+      "url": "https://github.com/weenable/tablebot/releases/download/v0.1.0/TableBot_0.1.0_x64-setup.exe"
     }
   }
 }
